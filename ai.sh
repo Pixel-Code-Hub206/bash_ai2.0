@@ -1,6 +1,6 @@
 #!/bin/bash
 
-API_KEY="....What?.. The key? Get your bruh."
+API_KEY="....What?.. The key? Get your own bruh."
 ENDPOINT="https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=$API_KEY"
 
 set +m
